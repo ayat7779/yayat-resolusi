@@ -4,4 +4,6 @@ Rencana Belajar
   1. Dasar JS
   2. Framework JS
 - Fundamental struktur data
+  1. Belajar dasar kolaborasi
 - Belajar Android
+  1. Menambah aplikasi baru
