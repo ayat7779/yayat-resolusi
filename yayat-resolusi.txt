@@ -1,4 +1,4 @@
 Yayat Resolusi
 - Membuat website pribadi
-- Membuat aplikasi kepegawaian
-- Mengembangkan aplikasi pendukung
+- Membuat aplikasi kepegawaian dan surat menyurat
+- Membuat tutorial SIPKD
