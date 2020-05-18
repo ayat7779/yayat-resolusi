@@ -5,6 +5,7 @@ Rencana Belajar
   2. Framework JS
   3. View
 - Fundamental struktur data
+  1. Belajar dasar kolaborasi
 - Belajar Android
   1. Android
 - Belajar Flutter
