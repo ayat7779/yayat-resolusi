@@ -3,5 +3,8 @@ Rencana Belajar
 - Belajar JS 
   1. Dasar JS
   2. Framework JS
+  3. View
 - Fundamental struktur data
 - Belajar Android
+  1. Android
+- Belajar Flutter
