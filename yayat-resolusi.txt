@@ -1,3 +1,4 @@
 Yayat Resolusi
 - Membuat website pribadi
 - Membuat aplikasi kepegawaian
+- Mengembangkan aplikasi pendukung
