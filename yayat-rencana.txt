@@ -1,0 +1,6 @@
+Rencana Belajar 
+- Belajar PHP
+- Belajar JS 
+  1. Dasar JS
+  2. Framework JS
+- Belajar Android
